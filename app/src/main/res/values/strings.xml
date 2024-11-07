@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Поиск авиабилетов</string>
+
+
+    <string name="departure_city_prompt">Выберите город вылета</string>
+    <string name="arrival_city_prompt">Выберите город прилета</string>
+    -->
+    <string-array name="cities_array">
+        <item>Москва</item>
+        <item>Большие коты</item>
+        <item>Новосибирск</item>
+        <item>Дно</item>
+        <item>Казань</item>
+        <item>Зады</item>
+        <item>Иркутск</item>
+        <item>Самара</item>
+        <item>Омск</item>
+        <item>Красноярск</item>
+        <item>Лохово</item>
+    </string-array>
+</resources>
